@@ -1,0 +1,7 @@
+JSON-LD parses OK: Organization
+legalName = "GHEWARE UNIGPS SOLUTIONS LLP"
+taxID = "29AAKFG8847K1ZK"
+telephone = "+91 97408 07444"
+address = {"@type": "PostalAddress", "streetAddress": "No 2146, Sunscape, Sobha Hillview, Kanakapura Road, Near Nice Road, Uttarahalli, Thala Ghattapu", "addressLocality": "Bengaluru (Bangalore) Urban", "addressRegion": "Karnataka", "postalCode": "560062", "addressCountry": "IN"}
+sameAs = ["https://thaliscan.glucoray.com/", "https://devops.gheware.com/", "https://agentgrow.io/"]
+subOrganization = [{"@type": "Organization", "name": "Glucoray", "url": "https://thaliscan.glucoray.com/"}, {"@type": "Organization", "name": "DevOps & Agentic AI training and consulting", "url": "https://devops.gheware.com/"}, {"@type": "Organization", "name": "AgentGrow", "url": "https://agentgrow.io/"}]
